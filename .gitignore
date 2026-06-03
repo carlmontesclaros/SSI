@@ -1,0 +1,6 @@
+.DS_Store
+ssi
+*.o
+marking-linux-amd64
+self-marking.log
+temp/
